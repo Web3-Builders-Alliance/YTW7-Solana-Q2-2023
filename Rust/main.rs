@@ -1,9 +1,11 @@
 // mod print;
 // mod vars;
-mod datatypes;
+// mod datatypes;
+mod strings;
 
 fn main(){
     // print::run();
     // vars::run();
-    datatypes::run();
+    // datatypes::run();
+    strings::run();
 }
