@@ -3,7 +3,8 @@
 // mod datatypes;
 // mod strings;
 // mod tuples;
-mod arrays;
+// mod arrays;
+mod vectors;
 
 fn main(){
     // print::run();
@@ -11,5 +12,6 @@ fn main(){
     // datatypes::run();
     // strings::run();
     // tuples::run();
-    arrays::run();
+    // arrays::run();
+    vectors::run();
 }
